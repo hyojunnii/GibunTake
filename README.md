@@ -1,10 +1,8 @@
 # :pushpin: 기부앤테이크 GibunTake
 > 기부 중개 웹 사이트
-> 
-
 
 ## 1. 제작 기간 & 참여인원
-- 2022/07/01 ~ 2022/08/25 (55일)
+- 2022/07/01 ~ 2022/08/26
 - 팀프로젝트, 6명
 
 
@@ -19,7 +17,9 @@
   - CSS3
   - JavaScript
   - jQuery
-  - AJAX
+  - Ajax
+#### `Server`
+  - Apache Tomcat 9.0
 #### `tools`
   - Eclipse
   - Visual Studio Code
@@ -27,6 +27,7 @@
   - SourceTree
   - ERD Cloud
   - Figma
+  - BootStrap 5
 
 
 ## 3. 프로젝트 소개
@@ -39,7 +40,7 @@
 <summary><b>전체 기능 펼치기</b></summary>
 <div markdown="1">
 
-### 4.1. 팀 기능
+### 4.1. 팀원별 기능
   
 - **김우인(조장)** - 로그인, 회원가입, ID찾기, PWD찾기, 회원정보수정
 - **권효정(형상관리)** - 프로젝트 신청, 수정, 캠페인 인증, 통합검색, 메인페이지, 더미데이터
@@ -82,7 +83,13 @@
 
 
 ## 4. ERD 설계
-![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/final_erd.png)
+ERD Cloud를 사용하여 공동 작업
+<details>
+<summary><b>ERD Cloud 보기</b></summary>
+
+![기부앤테이크](https://user-images.githubusercontent.com/96437859/203082016-5668bb7c-fda4-4d78-8d52-49ce1a049a4f.png)
+
+</details>
 
 
 ## 5. 담당 기능
