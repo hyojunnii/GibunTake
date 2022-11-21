@@ -32,11 +32,7 @@
 
 </br>
 
-## 3. ERD 설계
-![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/final_erd.png)
-
-
-## 4. 프로젝트 소개
+## 3. 프로젝트 소개
 기부/펀딩/캠페인 프로젝트를 조회하고 참여할 수 있는 중개 사이트입니다. <br>
 다양한 규모의 기부단체들이 제공된 양식에 맞춰 활동을 신청하고 관리할 수 있으며, <br>
 일반인들을 대상으로 모금활동, 펀딩(투자), 캠페인등 기부 활동에 대한 접근성을 높이고자 기획하였습니다. <br>
@@ -88,6 +84,10 @@
 </details>
 
 <br>
+
+## 4. ERD 설계
+![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/final_erd.png)
+
 
 ## 5. 담당 기능
 
