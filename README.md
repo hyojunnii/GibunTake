@@ -1,4 +1,4 @@
-# :pushpin: GibunTake
+# :pushpin: 기부앤테이크 GibunTake
 > 기부 중개 웹사이트
 > 
 
@@ -13,17 +13,16 @@
 ## 2. 사용 기술
 #### `Back-end`
   - Java 11
-  - Spring 2.5
-  - Spring Security
+  - Servlet
+  - JSP
   - Oracle DB (21c xe)
-  - Mybatis
 #### `Front-end`
   - HTML5
   - CSS3
   - JavaScript
   - jQuery
 #### `tools`
-  - STS
+  - Eclipse
   - Visual Studio Code
   - SqlDeveloper
   - SourceTree
@@ -34,27 +33,51 @@
 ![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/final_erd.png)
 
 
-## 4. 주요 기능
-이 서비스의 핵심 기능은 컨텐츠 등록 기능입니다.  
-사용자는 단지 컨텐츠의 카테고리를 선택하고, URL만 입력하면 끝입니다.  
-이 단순한 기능의 흐름을 보면, 서비스가 어떻게 동작하는지 알 수 있습니다.  
+## 4. 프로젝트 소개
+기부/펀딩/캠페인 프로젝트를 조회하고 참여할 수 있는 중개 사이트입니다.
+다양한 규모의 기부단체들이 제공된 양식에 맞춰 활동을 신청하고 관리할 수 있으며,
+일반인들을 대상으로 모금활동, 펀딩(투자), 캠페인등 기부 활동에 대한 접근성을 높이고자 기획하였습니다.
+네이버 해피빈, 카카오 같이가치를 참고하였습니다.
 
 <details>
-<summary><b>핵심 기능 설명 펼치기</b></summary>
+<summary><b>전체 기능 펼치기</b></summary>
 <div markdown="1">
 
-### 4.1. 전체 흐름
-![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/flow1.png)
+### 4.1. 팀 기능
+  
+- **김우인(조장)** - 로그인, 회원가입, ID찾기, PWD찾기, 회원정보수정
+- **권효정(형상관리)** - 프로젝트 신청, 수정, 캠페인 인증, 통합검색, 메인페이지
+- **조아연(DB관리)** - 명세서/영수증 조회, 출력, 홈페이지소개
+- **곽우진** - 결제, 후기, 스토리(프로젝트현황), 헤더푸터
+- **박준혁** - 프로젝트 조회, 프로젝트 참여, 댓글
+- **박찬수** - 공지사항, FAQ/문의게시판
 
-### 4.2. 사용자 요청
-![](https://zuminternet.github.io/images/portal/post/2019-04-22-ZUM-Pilot-integer/flow_vue.png)
+### 4.2. 기능 상세
 
-- **URL 정규식 체크** :pushpin: [코드 확인](https://github.com/Integerous/goQuality/blob/b587bbff4dce02e3bec4f4787151a9b6fa326319/frontend/src/components/PostInput.vue#L67)
+- **URL 정규식 체크**
   - Vue.js로 렌더링된 화면단에서, 사용자가 등록을 시도한 URL의 모양새를 정규식으로 확인합니다.
   - URL의 모양새가 아닌 경우, 에러 메세지를 띄웁니다.
 
-- **Axios 비동기 요청** :pushpin: [코드 확인]()
+- **Axios 비동기 요청**
   - URL의 모양새인 경우, 컨텐츠를 등록하는 POST 요청을 비동기로 날립니다.
+  
+</div>
+</details>
+
+<br>
+
+## 5. 담당 기능
+
+- 프로젝트 신청
+  - 
+- 프로젝트 수정
+  - 
+- 캠페인 인증
+  - 
+- 통합검색
+  - 
+  
+## 6. 코드 리뷰
 
 ### 4.3. Controller
 
@@ -100,7 +123,7 @@
 
 </br>
 
-## 5. 핵심 트러블 슈팅
+## 5. 트러블 슈팅
 ### 5.1. 컨텐츠 필터와 페이징 처리 문제
 - 저는 이 서비스가 페이스북이나 인스타그램 처럼 가볍게, 자주 사용되길 바라는 마음으로 개발했습니다.  
 때문에 페이징 처리도 무한 스크롤을 적용했습니다.
