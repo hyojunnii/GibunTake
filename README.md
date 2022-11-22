@@ -158,7 +158,9 @@
 > 특히 기부/펀딩/캠페인으로 나눠지는 화면과 기능이 계속 반복되었으며, 한가지에만 집중하고 조금 더 다양한 기능을 구현했었으면 좋았을 것 같다.
 
 
-## 8. 링크
+## 8. 링크 모음
 - [Notion 프로젝트 포트폴리오](https://hyojunnii.notion.site/d45614820fcc40f5b93d4d63c10d628c) <br>
 - [팀 깃허브](https://github.com/hyojunnii/GibunTake) <br>
-- [화면설계 피그마](https://www.figma.com/file/BjvrCMClye5Cgx58PvTPwF/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84?t=dFgdYHRAEsNBZb71-0)
+- [ERD Cloud](https://www.erdcloud.com/d/MD3avQAnxDDqXMq2D) <br>
+- [팀 노션](https://www.notion.so/KH-4-46c42e462fe74c1abfe1acb507359903) <br>
+- [팀 피그마](https://www.figma.com/file/BjvrCMClye5Cgx58PvTPwF/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84?t=dFgdYHRAEsNBZb71-0)
