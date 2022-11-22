@@ -1,5 +1,5 @@
-# 📌 기부앤테이크 GibunTake
-> 🫂 기부 중개 웹 사이트
+# <img src="https://user-images.githubusercontent.com/96437859/203319416-bc8b7035-73be-492c-9286-974a1ba70bcf.png" width="4%" height="4%"> 기부앤테이크 Gibu n Take
+> 🫂기부 중개 웹 사이트
 
 
 ## 1. 제작 기간 & 참여인원
