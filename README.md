@@ -11,26 +11,41 @@
 <br>
 
 ## 2. 사용 기술
-#### `Back-end`
-  - JAVA 11
-  - Servlet
-  - JSP
-  - Oracle DB (XE 21c)
-#### `Front-end`
-  - HTML5
-  - CSS3
-  - JavaScript
-  - jQuery 3.6.0
-#### `Server`
-  - Apache Tomcat 9.0
-#### `tools / Libraries`
-  - Eclipse 4.23.0
-  - Visual Studio Code 1.70.2
-  - SqlDeveloper 21.4.3
-  - SourceTree 3.4.8
-  - ERD Cloud
-  - Figma
-  - BootStrap5
+#### :pushpin: `Back-end`
+<div> 
+  <img src="https://img.shields.io/badge/java 11-eeeeee?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/servlet-eeeeee?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/oracle XE 21c-eeeeee?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/jsp-eeeeee?style=for-the-badge&logo=&logoColor=white">
+</div>
+
+#### :pushpin: `Front-end`
+<div>
+  <img src="https://img.shields.io/badge/html5-eeeeee?style=for-the-badge&logo=&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css3-eeeeee?style=for-the-badge&logo=&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-eeeeee?style=for-the-badge&logo=&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery 3.6-eeeeee?style=for-the-badge&logo=&logoColor=white">
+</div>
+
+#### :pushpin: `Server`
+<div>
+   <img src="https://img.shields.io/badge/apache tomcat 9.0-eeeeee?style=for-the-badge&logo=&logoColor=white">
+</div>
+
+#### :pushpin: `Tools / Libraries`
+<div>
+  <img src="https://img.shields.io/badge/eclipse 4.23-eeeeee?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode 1.70.2-eeeeee?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/SqlDeveloper 21.4.3-eeeeee?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/SourceTree 3.4.8-eeeeee?style=for-the-badge&logo=&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/github-eeeeee?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/git-eeeeee?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/ERDCloud-eeeeee?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-eeeeee?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap 5-eeeeee?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/el jstl-eeeeee?style=for-the-badge&logo=&logoColor=white">
+</div>
 
 <br>
 
