@@ -157,6 +157,6 @@
 
 
 ## 8. 링크
-[Notion 프로젝트 소개](https://hyojunnii.notion.site/d45614820fcc40f5b93d4d63c10d628c) <br>
-[팀 깃허브](https://github.com/hyojunnii/GibunTake) <br>
-[화면설계 피그마](https://www.figma.com/file/BjvrCMClye5Cgx58PvTPwF/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84?t=dFgdYHRAEsNBZb71-0)
+- [Notion 프로젝트 소개](https://hyojunnii.notion.site/d45614820fcc40f5b93d4d63c10d628c) <br>
+- [팀 깃허브](https://github.com/hyojunnii/GibunTake) <br>
+- [화면설계 피그마](https://www.figma.com/file/BjvrCMClye5Cgx58PvTPwF/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84?t=dFgdYHRAEsNBZb71-0)
