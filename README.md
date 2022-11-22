@@ -20,7 +20,7 @@
   - jQuery 3.6.0
 #### `Server`
   - Apache Tomcat 9.0
-#### `tools`
+#### `tools / Libraries`
   - Eclipse 4.23.0
   - Visual Studio Code 1.70.2
   - SqlDeveloper 21.4.3
