@@ -159,7 +159,7 @@
 
 
 ## 8. 링크 모음
-- [Notion 프로젝트 포트폴리오](https://hyojunnii.notion.site/d45614820fcc40f5b93d4d63c10d628c) <br>
+- [개인 진행사항 Notion](https://hyojunnii.notion.site/d45614820fcc40f5b93d4d63c10d628c) <br>
 - [팀 깃허브](https://github.com/hyojunnii/GibunTake) <br>
 - [ERD Cloud](https://www.erdcloud.com/d/MD3avQAnxDDqXMq2D) <br>
 - [팀 노션](https://www.notion.so/KH-4-46c42e462fe74c1abfe1acb507359903) <br>
