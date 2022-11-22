@@ -83,9 +83,9 @@
 
 
 ## 4. ERD 설계
-ERD Cloud를 사용하여 공동 작업
+[ERD Cloud](https://www.erdcloud.com/d/MD3avQAnxDDqXMq2D)를 사용하여 공동 작업
 <details>
-<summary><b>ERD Cloud 보기</b></summary>
+<summary><b>전체 테이블 보기</b></summary>
 
 ![기부앤테이크](https://user-images.githubusercontent.com/96437859/203082016-5668bb7c-fda4-4d78-8d52-49ce1a049a4f.png)
 
@@ -154,3 +154,9 @@ ERD Cloud를 사용하여 공동 작업
 
 > 프로젝트 전체적으로는 비슷하고 시간이 많이 소요되는 기능들로 기획한 것이 아쉬웠던 것 같다. <br>
 > 특히 기부/펀딩/캠페인으로 나눠지는 화면과 기능이 계속 반복되었으며, 한가지에만 집중하고 조금 더 다양한 기능을 구현했었으면 좋았을 것 같다.
+
+
+## 8. 링크
+[Notion 프로젝트 소개](https://hyojunnii.notion.site/d45614820fcc40f5b93d4d63c10d628c) <br>
+[팀 깃허브](https://github.com/hyojunnii/GibunTake) <br>
+[화면설계 피그마](https://www.figma.com/file/BjvrCMClye5Cgx58PvTPwF/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84?t=dFgdYHRAEsNBZb71-0)
