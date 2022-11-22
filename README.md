@@ -1,12 +1,14 @@
 # <img src="https://user-images.githubusercontent.com/96437859/203319416-bc8b7035-73be-492c-9286-974a1ba70bcf.png" width="4%" height="4%"> 기부앤테이크 Gibu n Take
 > 기부 중개 웹 사이트
 
+<br>
 
 ## 1. 제작 기간 & 참여인원
 - 2022.06.30 ~ 2022.08.26
 - 팀프로젝트, 6명
 - [팀 깃허브](https://github.com/hyojunnii/GibuAndTake) <br>
 
+<br>
 
 ## 2. 사용 기술
 #### `Back-end`
@@ -30,6 +32,7 @@
   - Figma
   - BootStrap5
 
+<br>
 
 ## 3. 프로젝트 소개
 기부/펀딩/캠페인 프로젝트를 조회하고 참여할 수 있는 중개 사이트입니다. <br>
@@ -82,6 +85,7 @@
 </div>
 </details>
 
+<br>
 
 ## 4. ERD 설계
 [ERD Cloud](https://www.erdcloud.com/d/MD3avQAnxDDqXMq2D)를 사용하여 공동 작업
@@ -92,6 +96,7 @@
 
 </details>
 
+<br>
 
 ## 5. 담당 기능 
 
@@ -119,6 +124,8 @@
 
 - Notion으로 화면 미리보기 : <https://hyojunnii.notion.site/d45614820fcc40f5b93d4d63c10d628c/>
   
+<br>  
+
 ## 6. 기능 리뷰
 <details>
 <summary>프로젝트 신청</summary>
@@ -148,6 +155,7 @@
 - 기능별로 DAO단에서 정렬을 따로 구현하였다..
 </details>
 
+<br>
 
 ## 7. 회고
 > Spring Framework를 사용하기 전 바탕이 되는 Servlet으로 웹사이트를 구현하였는데 기능 하나하나를 구현하는데 시간이 많이 소요되었고, 코드의 길이가 길어 수정이 까다로운 점이 있었다. <br>
@@ -157,6 +165,7 @@
 > 프로젝트 전체적으로는 비슷하고 시간이 많이 소요되는 기능들로 기획한 것이 아쉬웠던 것 같다. <br>
 > 특히 기부/펀딩/캠페인으로 나눠지는 화면과 기능이 계속 반복되었으며, 한가지에만 집중하고 조금 더 다양한 기능을 구현했었으면 좋았을 것 같다.
 
+<br>
 
 ## 8. 링크 모음
 - [개인 진행사항 Notion](https://hyojunnii.notion.site/d45614820fcc40f5b93d4d63c10d628c) <br>
