@@ -5,7 +5,7 @@
 ## 1. 제작 기간 & 참여인원
 - 2022.07.01 ~ 2022.08.26
 - 팀프로젝트, 6명
-- [팀 깃허브](https://github.com/hyojunnii/GibunTake) <br>
+- [팀 깃허브](https://github.com/hyojunnii/GibuAndTake) <br>
 
 
 ## 2. 사용 기술
