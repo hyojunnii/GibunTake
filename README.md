@@ -92,7 +92,7 @@
 </details>
 
 
-## 5. 담당 기능
+## 5. 담당 기능 
 
 - #### 프로젝트 신청 / 신청내역조회 / 수정
   - 작성 템플릿을 제공하여 프로젝트를 신청받거나 수정받는 페이지
@@ -115,7 +115,8 @@
   - Servlet 기반 CRUD
   - MVC 패턴 사용
   - JSP, EL, jstl을 사용한 화면구현
-  
+
+- Notion으로 화면 미리보기 : <https://hyojunnii.notion.site/d45614820fcc40f5b93d4d63c10d628c/>
   
 ## 6. 기능 리뷰
 <details>
