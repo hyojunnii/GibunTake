@@ -125,7 +125,7 @@
 </details>
 <details>
 <summary>프로젝트 신청 컨텐츠 작성</summary>
-- 기존 textarea를 사용하다 화면이 아쉽다는 생각이 들었고, 팀원이 summernote 에디터를 추천해주어 사용하게 되었다. <br>
+- 기존 textarea를 사용하다 화면이 아쉽다는 생각이 들었고, 팀원분이 summernote 에디터를 추천해주어 사용하게 되었다. <br>
 - 사용방법을 익히는데 시간이 다소 소요되었다.
 </details>
 <details>
